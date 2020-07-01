@@ -20,3 +20,20 @@ Input: n = 4
 Output: 5
 (1, 1, 1, 1), (1, 1, 2), (2, 1, 1), (1, 2, 1), (2, 2)
 ```
+
+### Problem 2
+
+Subset Sum Problem | DP-25
+Given a set of non-negative integers, and a value sum, determine if there is a subset of the given set with sum equal to given sum.
+
+Example 
+
+```
+Array:  2 4 6 10
+Total: 16
+Result =  2
+
+Array:  3 34 4 12 5 2
+Total: 9
+Result =  2
+```
